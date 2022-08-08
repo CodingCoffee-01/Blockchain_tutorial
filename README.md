@@ -1,4 +1,6 @@
-# BlockchainJS
+# BlockchainJS  fork from https://github.com/schefa/BlockchainJS
+
+## CodingCoffee for Courses 
 
 This project is an implementation of the essence of a Blockchain. It demonstrates the main aspects and the challenge of a Blockchain as a distributed ledger.
 
